@@ -1,0 +1,60 @@
+﻿  R6.7.11-1-bullet.cpp
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-bullet.h(18,13): error C3646: 'type': 不明なオーバーライド指定子です
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-bullet.h(18,17): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-player1.h(18,15): error C3646: 'state': 不明なオーバーライド指定子です
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-player1.h(18,20): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-enemy1.h(20,13): error C3646: 'state': 不明なオーバーライド指定子です
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-enemy1.h(20,18): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-enemy1.h(15,1): error C5208: typedef 名で使用されている名前のないクラスでは、静的でないデータ メンバー、メンバーの列挙値、メンバー クラス以外のメンバーを宣言できません
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-bullet.cpp(134,34): error C2039: 'type': 'Bullet' のメンバーではありません
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-bullet.h(14): message : 'Bullet' の宣言を確認してください
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-bullet.cpp(150,39): error C2039: 'type': 'Bullet' のメンバーではありません
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-bullet.h(14): message : 'Bullet' の宣言を確認してください
+  R6.7.11-1-effect.cpp
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-bullet.h(18,13): error C3646: 'type': 不明なオーバーライド指定子です
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-bullet.h(18,17): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-player1.h(18,15): error C3646: 'state': 不明なオーバーライド指定子です
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-player1.h(18,20): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-enemy1.h(20,13): error C3646: 'state': 不明なオーバーライド指定子です
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-enemy1.h(20,18): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-enemy1.h(15,1): error C5208: typedef 名で使用されている名前のないクラスでは、静的でないデータ メンバー、メンバーの列挙値、メンバー クラス以外のメンバーを宣言できません
+  R6.7.11-1-enemy1.cpp
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-enemy1.h(20,13): error C3646: 'state': 不明なオーバーライド指定子です
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-enemy1.h(20,18): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-enemy1.h(15,1): error C5208: typedef 名で使用されている名前のないクラスでは、静的でないデータ メンバー、メンバーの列挙値、メンバー クラス以外のメンバーを宣言できません
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-bullet.h(18,13): error C3646: 'type': 不明なオーバーライド指定子です
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-bullet.h(18,17): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-enemy1.cpp(221,37): error C2039: 'state': 'Enemy' のメンバーではありません
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-enemy1.h(15): message : 'Enemy' の宣言を確認してください
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-enemy1.cpp(237,31): error C2039: 'state': 'Enemy' のメンバーではありません
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-enemy1.h(15): message : 'Enemy' の宣言を確認してください
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-enemy1.cpp(317,28): error C2039: 'state': 'Enemy' のメンバーではありません
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-enemy1.h(15): message : 'Enemy' の宣言を確認してください
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-enemy1.cpp(383,27): error C2039: 'state': 'Enemy' のメンバーではありません
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-enemy1.h(15): message : 'Enemy' の宣言を確認してください
+  R6.7.11-1-explosion.cpp
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-player1.h(18,15): error C3646: 'state': 不明なオーバーライド指定子です
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-player1.h(18,20): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-explosion.cpp(121,41): warning C4553: '==': 式の結果が使用されていません。'=' を意図していますか?
+  R6.7.11-1-game.cpp
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-player1.h(18,15): error C3646: 'state': 不明なオーバーライド指定子です
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-player1.h(18,20): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-enemy1.h(20,13): error C3646: 'state': 不明なオーバーライド指定子です
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-enemy1.h(20,18): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-enemy1.h(15,1): error C5208: typedef 名で使用されている名前のないクラスでは、静的でないデータ メンバー、メンバーの列挙値、メンバー クラス以外のメンバーを宣言できません
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-bullet.h(18,13): error C3646: 'type': 不明なオーバーライド指定子です
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-bullet.h(18,17): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+  R6.7.11-1-player1.cpp
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-player1.h(18,15): error C3646: 'state': 不明なオーバーライド指定子です
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-player1.h(18,20): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-bullet.h(18,13): error C3646: 'type': 不明なオーバーライド指定子です
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-bullet.h(18,17): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-player1.cpp(424,20): error C2039: 'state': 'Player1' のメンバーではありません
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-player1.h(13): message : 'Player1' の宣言を確認してください
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-player1.cpp(437,14): error C2039: 'state': 'Player1' のメンバーではありません
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-player1.h(13): message : 'Player1' の宣言を確認してください
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-player1.cpp(524,13): error C2039: 'state': 'Player1' のメンバーではありません
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-player1.h(13): message : 'Player1' の宣言を確認してください
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-player1.cpp(531,13): error C2039: 'state': 'Player1' のメンバーではありません
+C:\Users\student\source\repos\PK\R6.7\R6.7.11-1\R6.7.11-1-player1.h(13): message : 'Player1' の宣言を確認してください
+  R6.7.11-1-result.cpp
